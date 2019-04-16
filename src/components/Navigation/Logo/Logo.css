@@ -1,0 +1,13 @@
+.LogoWrapper {
+  background-color: white;
+  padding: 8px;
+  height: 100%;
+  width: 80%;
+  border-radius: 5px;
+  margin: 0 1em;
+}
+
+.LogoWrapper img {
+  height: 100%;
+  width: 4em;
+}
